@@ -3,8 +3,7 @@ title: Dashboard example
 ---
 
 <br/>
-
-<p align="left"> 
+<p align="center"> 
 <iframe width="1920" height="1080" src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208" 
         style="
         -ms-transform: scale(0.5); /* IE 9 */
