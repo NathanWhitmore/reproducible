@@ -3,20 +3,21 @@ title: We help organisations build knowledge systems. .
 
 header:
   overlay_image: "/assets/images/mangrove.jpg"
-  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
  
-We focus on providing solutions for the conservation, environment, and poverty alleviation sectors.
+*We focus on providing solutions for the conservation, environment, and poverty alleviation sectors.*
 
 We specialise in:
 
 - Automating [data analyses and visualisations](analysis_visualisation.md) to support your organisation's decision making.
 - Designing [knowledge and data strategies](knowledge.md) tailored to your organisation's culture and needs.
 - Staff [training](training.md) in data science and its applications.
+- Developing solutions for non-profit organisations
 
 ----
 
-*We have particular expertise in developing solutions for non-profit organisations*
+
 
 
 
