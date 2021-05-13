@@ -1,5 +1,5 @@
 ---
-title: We help organisations build knowledge systems. .
+title: We help organisations build knowledge systems.
 
 header:
   overlay_image: "/assets/images/mangrove.jpg"
