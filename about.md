@@ -20,26 +20,12 @@ Our past clients have included:
 ### Where to find us
 
 Petridish, 8 Stafford Street, Dunedin 9016, New Zealand
-<br/>
 
-github.com
+<br/>
 
 <iframe src="https://github.com/NathanWhitmore/reproducible/blob/main/assets/images/petridish_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
-
 <br/>
-dot assets
-
-<iframe src="./assets/images/petridish_map.html" height="600px" width="100%" style="border:none;"></iframe>
-
-
-raw.githubusercontent.com
-
-<iframe src="https://raw.githubusercontent.com/NathanWhitmore/reproducible/main/assets/images/oromahoe.png" height="600px" width="100%" style="border:none;"></iframe>
-
-<br/>
-For more detailed enquires message us via our [contact page](contact.md) or via <a href="mailto:nathan@reproducible.co.nz">nathan@reproducible.co.nz</a>
-
 
 For more detailed enquires message us via our [contact page](contact.md) or via <a href="mailto:nathan@reproducible.co.nz">nathan@reproducible.co.nz</a>
 
