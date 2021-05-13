@@ -14,3 +14,15 @@ It looks like your browser doesn't support iframes.
 </iframe>
 
 
+<br/>
+
+<iframe src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208" height="60%" width="60%" style="border:none;"></iframe>
+
+
+<br/>
+
+<iframe src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208" width="1000" height="560"  style="border:none;"></iframe>
+
+<br/>
+
+<iframe src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208" width="1000" height="56%"  style="border:none;"></iframe>
