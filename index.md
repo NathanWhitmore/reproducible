@@ -1,4 +1,6 @@
-**We help organisations build knowledge systems**
+---
+title: We help organisations build knowledge systems
+---
 
 We specialise in:
 - Designing [knowledge and data strategies](knowledge.md) tailored to your organisation's culture and needs.
