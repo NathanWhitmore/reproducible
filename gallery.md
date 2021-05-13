@@ -23,8 +23,9 @@ All of the following images, graphs, and dashboards were created in Program R
 <br/>
 <br/>
 
-
-<iframe src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208"  height="800px" width="1000px" style="border:none;"></iframe>
+<p align="center">
+<iframe src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208"  height="100%" width="100%" style="border:none;"></iframe>
+</p> 
 
 
 <br/>
