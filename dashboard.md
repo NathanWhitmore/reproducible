@@ -1,6 +1,5 @@
 ---
 title: Dashboard example
-layout: archive
 ---
 
 <br/>
