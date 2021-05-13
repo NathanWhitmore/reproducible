@@ -1,5 +1,7 @@
 ---
 title: Dashboard example
+classes: wide
+
 ---
 
 <br/>
