@@ -7,9 +7,12 @@ header:
 ---
 
 We specialise in:
-- Designing [knowledge and data strategies](knowledge.md) tailored to your organisation's culture and needs.
+
 - Automating [data analyses and visualisations](analysis_visualisation.md) to support your organisation's decision making.
+- Designing [knowledge and data strategies](knowledge.md) tailored to your organisation's culture and needs.
 - Staff [training](training.md) in data science and its applications.
+
+
 
 <br/>
 
