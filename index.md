@@ -2,7 +2,7 @@
 title: We help organisations build knowledge systems
 
 header:
-  overlay_image: "/assets/images/owl.jpg"
+  overlay_image: "/assets/images/oromahoe.png"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
