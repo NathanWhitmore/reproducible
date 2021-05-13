@@ -7,8 +7,7 @@ layout: archive
 
 <p align="left">   
 
-
-<iframe width="1024" height="1024" src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208" 
+<iframe width="1920" height="1080" src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208" 
         style="
         -ms-transform: scale(0.7); /* IE 9 */
         -webkit-transform: scale(0.7); /* Safari and Chrome */
