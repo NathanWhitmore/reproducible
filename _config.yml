@@ -1,0 +1,46 @@
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: pages #posts
+    values:
+      layout: single
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
+  
+# Site Settings
+title                    : "Reproducible"
+title_separator          : "-"
+
+logo                     : "/assets/images/owl.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Reproducible" # overrides the website title displayed in the masthead, use " " for no title
+# subtitle                 : "Evidence based decision making"
+
+# header:
+#   image: /assets/images/mangroveX.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
