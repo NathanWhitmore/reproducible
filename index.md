@@ -3,7 +3,7 @@ title: We help organisations build knowledge systems.
 
 header:
   overlay_image: "/assets/images/mangrove.jpg"
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.15 # same as adding an opacity of 0.5 to a black background
 ---
  
 *Our primary focus on the conservation, environment, and poverty alleviation sectors.*
