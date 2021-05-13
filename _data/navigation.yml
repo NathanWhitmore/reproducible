@@ -1,0 +1,6 @@
+main:
+  - title: "about"
+    url: about.html
+  - title: "contact"
+    url: contact.html
+
