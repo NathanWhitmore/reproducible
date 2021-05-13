@@ -15,10 +15,10 @@ header:
 - Staff [training](training.md) in data science and its applications.
 
 ...*and have expertise in:*
-- Situational analyses
-- Project monitoring and evaluation
-- Donor reporting
-- Scientific publishing
+- *Situational analyses*
+- *Project monitoring and evaluation*
+- *Donor reporting*
+- *Scientific publishing*
 
 
 ----
