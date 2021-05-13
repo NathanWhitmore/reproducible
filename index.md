@@ -8,13 +8,13 @@ header:
  
 *We focus on providing solutions for the conservation, environment, and poverty alleviation sectors.*
 
-We specialise in:
+**We specialise in:**
 
 - Automating [data analyses and visualisations](analysis_visualisation.md) to support your organisation's decision making.
 - Designing [knowledge and data strategies](knowledge.md) tailored to your organisation's culture and needs.
 - Staff [training](training.md) in data science and its applications.
 
-We also have significant experticise in:
+...*and have expertise in:*
 - Situational analyses
 - Project monitoring and evaluation
 - Donor reporting
