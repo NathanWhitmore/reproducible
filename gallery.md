@@ -8,7 +8,7 @@ All of the following images, graphs, and dashboards were created in Program R
 
 
 <p align="center">   
-<img src="/assets/images/oromahoe.png" width="600"/> 
+<img src="./assets/images/oromahoe.png" width="600"/> 
 </p> 
 
 <br/>
