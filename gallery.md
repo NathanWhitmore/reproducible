@@ -23,9 +23,9 @@ All of the following images, graphs, and dashboards were created in Program R
 <br/>
 <br/>
 
-<p align="center">  
-<img src="./assets/images/generativeart.jpg" width="500"/> 
-</p>
+
+<iframe src="https://reproducible.shinyapps.io/richard_example/?_ga=2.44848932.1898567428.1620941224-355753582.1620610208"  height="500px" width="500px" style="border:none;"></iframe>
+
 
 <br/>
 <br/>
