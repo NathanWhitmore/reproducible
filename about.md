@@ -2,7 +2,6 @@
 title: What we do
 ---
 
-<br/>
 
 Reproducible is a small New Zealand based data science consultancy business focusing on providing solutions for the conservation, environment, and poverty alleviation sectors.
 
