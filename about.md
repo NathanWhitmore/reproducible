@@ -32,6 +32,8 @@ Petridish, 8 Stafford Street, Dunedin 9016, New Zealand
 
 <br/>
 
+<iframe src="./assets/images/petridish_map.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
 For more detailed enquires message us via our [contact page](contact.md) or via <a href="mailto:nathan@reproducible.co.nz">nathan@reproducible.co.nz</a>
 
