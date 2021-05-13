@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
  
-*We focus on providing solutions for the conservation, environment, and poverty alleviation sectors.*
+*Our focus is to provide solutions for the conservation, environment, and poverty alleviation sectors.*
 
 **We specialise in:**
 
