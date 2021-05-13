@@ -14,7 +14,7 @@ header:
 - Designing [knowledge and data strategies](knowledge.md) tailored to your organisation's culture and needs.
 - Staff [training](training.md) in data science and its applications.
 
-**and have can assist with:**
+**and can assist with:**
 
 - *Situational analyses*
 - *Project monitoring and evaluation*
