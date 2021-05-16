@@ -1,0 +1,12 @@
+- selector: example_slider
+  captions: true
+  images:
+    - src: /assets/images/oromahoe.png" 
+      alt: image one
+    - src: /assets/images/food_security.png
+      alt: image two
+    - src: /assets/images/sakura_polar.png
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
