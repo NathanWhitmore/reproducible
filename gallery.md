@@ -1,10 +1,6 @@
 ---
 title: Gallery
-image_sliders:
-  - example_slider
 ---
-
-{% include slider_scripts.html selector="example_slider" %}
 
 <br/>
 All of the following images, graphs, and dashboards were created in Program R
