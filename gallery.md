@@ -3,32 +3,42 @@ title: Gallery
 ---
 
 
+ <!-- Container for the image gallery -->
+<div class="container">
+
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 1</div>
+      <img src="./assets/images/oromahoe.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 2</div>
+      <img src="./assets/images/food_security.png" style="width:100%">
+  </div>
 
 
-<html>
+  </div>
 
-  <body>
-    <div>
-      <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="https://images.unsplash.com/photo-1600455076912-ca2af5999539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="https://images.unsplash.com/photo-1600426189461-723ac65b5e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" class="d-block w-100" alt="...">
-          </div>
-        </div>
-      </div>
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  <!-- Image text -->
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <!-- Thumbnail images -->
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="./assets/images/oromahoe.png" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-  </body>
-</html>
-
+    <div class="column">
+      <img class="demo cursor" src="./assets/images/food_security.png" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+    </div>
+  </div>
+</div> 
 
 
 <br/>
