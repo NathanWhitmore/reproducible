@@ -3,23 +3,11 @@ title: Gallery
 ---
 
 
-{::nomarkdown}
+
 
 <html>
-  <head>
-    <title>Github Page</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
-  </head>
+
   <body>
-    <div>
-      <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand">Navbar</a>
-        <form class="form-inline">
-          <input class="form-control mr-sm-2" type="search"  placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </nav>
-    </div>
     <div>
       <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -41,7 +29,6 @@ title: Gallery
   </body>
 </html>
 
-{::/nomarkdown}
 
 
 <br/>
