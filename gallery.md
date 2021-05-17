@@ -3,42 +3,13 @@ title: Gallery
 ---
 
 
- <!-- Container for the image gallery -->
-<div class="container">
 
-  <!-- Full-width images with number text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 1</div>
-      <img src="./assets/images/oromahoe.png" style="width:100%">
-  </div>
+<br/>
 
-  <div class="mySlides">
-    <div class="numbertext">2 / 2</div>
-      <img src="./assets/images/food_security.png" style="width:100%">
-  </div>
+<iframe src="./assets/images/slicker.html" height="600px" width="100%" style="border:none;"></iframe>
 
+<br/>
 
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-  <!-- Image text -->
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
-
-  <!-- Thumbnail images -->
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="./assets/images/oromahoe.png" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="./assets/images/food_security.png" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
-    </div>
-  </div>
-</div> 
 
 
 <br/>
