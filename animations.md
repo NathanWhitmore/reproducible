@@ -1,10 +1,10 @@
 ---
-title: Gallery
+title: Animations
 ---
 
 <br/>
 
-<sup>*All of the following images were created in Program R*<sup>
+<sup>*All of the following images were animated in Program R*<sup>
  
 
 
