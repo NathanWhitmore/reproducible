@@ -4,7 +4,7 @@ title: Gallery
 
 <br/>
 
-<sup>*All of the following images, graphs, and dashboards were created in Program R*<sup>
+<sup>*All of the following images were created in Program R*<sup>
  
 
 
