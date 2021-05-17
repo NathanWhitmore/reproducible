@@ -15,7 +15,7 @@ the analyses and the visualisations you require, so that they rerun whenever you
 *At Reproducible we offer a range of support solutions including:*
 - *one-off reports*
 - *automated [dashboards](dashboard.md) and reports for recurrent analyses*
-- *animations*
+- *[animations](animations.md)*
 - *bespoke Program R packages for complex analyses*
 
 Check out our sample [gallery](gallery.md) of data visualisations.
