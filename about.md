@@ -11,11 +11,12 @@ Our past clients have included:
 - *Department of Conservation (New Zealand)*
 - *Environmental consultancy companies*
 
+
 ### Recent work has included:
 - *automated analyses of wildife monitoring (including index monitoring, mark-resight, and spatially explicit capture-recapture)*
-- *application of statistical clustering techniques to understand governance networks*
+- *application of statistical techniques to understand governance networks*
 - *vegetation classification using spectral imagery acquired by drones*
-- *situational analyses of conservation opportunities*
+- *situational analyses for the exploration of conservation opportunities*
 
 
 ### Where to find us
