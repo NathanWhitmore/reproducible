@@ -6,7 +6,7 @@ title: Gallery
 
 <br/>
 
-<iframe src="./assets/images/slider.html" height ="700px" width="100%" style="border:none;"></iframe>
+<iframe src="./assets/images/slider.html" height ="700px" width="110%" style="border:none;"></iframe>
 
 <br/>
 
