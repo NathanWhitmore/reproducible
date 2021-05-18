@@ -3,7 +3,7 @@ title: We help organisations build knowledge systems.
 
 header:
   overlay_image: "/assets/images/segmentation.png"
-  caption: "Image: mangrove forest scene clustered via affinity propagation"
+  caption: "mangrove forest scene transformed by image segmentation in R"
   
 ---
  
