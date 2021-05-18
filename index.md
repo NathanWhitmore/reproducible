@@ -4,6 +4,7 @@ excerpt: "Especially the conservation, environment, and poverty alleviation sect
 
 header:
   overlay_image: "/assets/images/segmentation.png"
+  overlay_filter: 0.1
   caption: "mangrove forest scene transformed by image segmentation in R"
   
 ---
