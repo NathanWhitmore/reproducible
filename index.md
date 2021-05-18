@@ -3,7 +3,8 @@ title: We help organisations build knowledge systems.
 
 header:
   overlay_image: "/assets/images/segmentation.png"
-  overlay_filter: 0.15 # same as adding an opacity of 0.5 to a black background
+  caption: "Image: mangrove forest scene clustered via affinity propagation"
+  
 ---
  
 *Especially the conservation, environment, and poverty alleviation sectors.*
