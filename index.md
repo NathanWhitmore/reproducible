@@ -1,15 +1,14 @@
 ---
 title: We help organisations build knowledge systems.
-excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+excerpt: "Especially the conservation, environment, and poverty alleviation sectors."
 
 header:
   overlay_image: "/assets/images/segmentation.png"
   caption: "mangrove forest scene transformed by image segmentation in R"
-
   
 ---
  
-*Especially the conservation, environment, and poverty alleviation sectors.*
+
 
 **We specialise in:**
 
