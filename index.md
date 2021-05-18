@@ -4,6 +4,7 @@ title: We help organisations build knowledge systems.
 header:
   overlay_image: "/assets/images/segmentation.png"
   caption: "mangrove forest scene transformed by image segmentation in R"
+  excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
   
 ---
  
