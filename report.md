@@ -3,9 +3,8 @@ title: Automated report
 ---
 
 
-
 <iframe
-  src="src="./Rmarkdown_example.html"
+  src="./Rmarkdown_example.html"
   style="
     position: fixed;
     top: 0px;
