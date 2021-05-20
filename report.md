@@ -3,8 +3,21 @@ title: Automated report
 ---
 
 
-# iframe
-<iframe src="./Rmarkdown_example.html" height="1000px" width="100%" style="border:none;"></iframe>
 
-# object
- <object data=./Rmarkdown_example.html"  height="1000px" width="100%"></object> 
+<iframe
+  src="src="./Rmarkdown_example.html"
+  style="
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 999999;
+    height: 100%;
+  ">
+</iframe>
+
