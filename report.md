@@ -1,7 +1,3 @@
----
-title: Automated report
----
-
 
 <iframe
   src="./Rmarkdown_example.html"
