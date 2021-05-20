@@ -4,7 +4,7 @@ title: Automated report
 
 # imports
 
-<link rel="import" href="./assets/images/petridish_map.html">
+<link rel="import" href="./assets/images/petridish_map.html"></link> 
 
 
 # iframe
