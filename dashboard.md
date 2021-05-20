@@ -8,7 +8,7 @@ title: Dashboard example (live)
 
 <br/>
 
-<iframe src="https://reproducible.shinyapps.io/dashboard_example/" style=" position: fixed; top: 100px; bottom: 100px; right: 0px; width: 60%; border: none; margin: 0; padding: 0; overflow: hidden; z-index: 999999; height: 60%; "> </iframe> 
+<iframe align="left" src="https://reproducible.shinyapps.io/dashboard_example/" width="800" height="600" style="border:none;"></iframe>
 
 
 
