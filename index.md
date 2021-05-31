@@ -1,6 +1,6 @@
 ---
 title: We help organisations build knowledge systems.
-excerpt: "Especially the conservation, environment, <br/> and poverty alleviation sectors."
+excerpt: "With a focus on those in the conservation, environment, <br/> and poverty alleviation sectors."
  
 header:
   overlay_image: "/assets/images/segmentation.png"
