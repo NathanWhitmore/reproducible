@@ -4,9 +4,9 @@ title: Animations
 
 <br/>
 
-<sup>*All of the following images were animated in Program R*<sup>
+<sup>*Not all data sets lend themselves to animation. However, those that do can often engage a stronger reaction from the audience.*<sup>
  
 
 
 
-<iframe src="./assets/images/animations.html" height="700px" width="100%" style="border:none;"></iframe>
+<iframe src="./assets/images/CO2.gif" height="700px" width="100%" style="border:none;"></iframe>
