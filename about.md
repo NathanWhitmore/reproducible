@@ -25,7 +25,7 @@ Our past clients have included:
 
 <br/>
 
-<iframe src="./assets/images/petridishmap.html" height="600px" width="50%" style="border:none;"></iframe>
+<iframe src="./assets/images/petridishmap.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <br/>
 
